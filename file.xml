@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-model href="file.dtd" type="application/xml-dtd"?>
+<products>
+    <product id="c1">
+        <name>lucknowi kurti</name>
+        <price>500</price>
+        <available_quantity>10</available_quantity>
+        <category>Clothing</category>
+    </product>
+    <product id="b2">
+        <name>Mindfullness</name>
+        <price>30</price>
+        <available_quantity>60</available_quantity>
+        <category>Books</category>
+    </product>
+    <product id="b3">
+        <name>Psycology of money</name>
+        <price>150</price>
+        <available_quantity>5</available_quantity>
+        <category>Books</category>
+    </product>
+    <product id="e4">
+        <name>Iphone 14 pro</name>
+        <price>500</price>
+        <available_quantity>20</available_quantity>
+        <category>Electronics</category>
+    </product>
+</products>
